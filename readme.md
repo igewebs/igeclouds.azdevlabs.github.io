@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Azure DevOps Hands-On Labs
+title: eCampus DevOps Hands-On Labs
 keywords: ALM VM homepage
 tags: [overview]
 permalink: default.html
